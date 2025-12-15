@@ -2,3 +2,8 @@ employee_id,name,email,department,start_date,status
 1001,Ana Silva,ana.silva@empresa.com,Financeiro,2025-01-15,active
 1002,Carlos Lima,carlos.lima@empresa.com,TI,2025-02-01,active
 1003,Mariana Souza,mariana.souza@empresa.com,RH,2025-02-10,active
+1004,João Pereira,joao.pereira@empresa.com,Marketing,2025-03-01,active
+1005,Beatriz Costa,beatriz.costa@empresa.com,TI,2025-03-05,active
+1006,Lucas Martins,lucas.martins@empresa.com,Financeiro,2024-12-01,inactive
+1007,Fernanda Rocha,fernanda.rocha@empresa.com,Jurídico,2025-03-10,active
+1008,Rafael Alves,rafael.alves@empresa.com,TI,2025-01-20,active
