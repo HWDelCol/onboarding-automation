@@ -1,0 +1,4 @@
+employee_id,name,email,department,start_date,status
+1001,Ana Silva,ana.silva@empresa.com,Financeiro,2025-01-15,active
+1002,Carlos Lima,carlos.lima@empresa.com,TI,2025-02-01,active
+1003,Mariana Souza,mariana.souza@empresa.com,RH,2025-02-10,active
