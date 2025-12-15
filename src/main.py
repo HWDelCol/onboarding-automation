@@ -1,5 +1,6 @@
 from readers.csv_reader import read_employees
 from services.onboarding import get_new_employees, save_processed
+from services.email_service import send_welcome_email
 
 
 def main():
@@ -14,6 +15,7 @@ def main():
 
     for emp in new_employees:
         print(f"Iniciando onboarding para: {emp['name']}")
+        send_welcome_email(emp)
         processed_ids.add(emp["employee_id"])
 
     save_processed(processed_ids)
